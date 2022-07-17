@@ -15,4 +15,5 @@
 # 代理列表
 # MyList
 
-DOMAIN-SUFFIX,steamstatic.com
+
+;DOMAIN-SUFFIX,steamstatic.com
