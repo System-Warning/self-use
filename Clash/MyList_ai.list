@@ -15,7 +15,7 @@
 # 代理列表
 # MyList
 
-
+# OpenAI
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
@@ -35,6 +35,7 @@ DOMAIN,featuregates.org
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,www.bing.com
-DOMAIN-SUFFIX,sydney.bing.com
-DOMAIN-SUFFIX,bingai.nothingnessvoid.tech
+# Newbing AI
+;DOMAIN-SUFFIX,www.bing.com
+;DOMAIN-SUFFIX,sydney.bing.com
+;DOMAIN-SUFFIX,bingai.nothingnessvoid.tech
