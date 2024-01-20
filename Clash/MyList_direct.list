@@ -17,3 +17,16 @@
 
 
 #DOMAIN-SUFFIX,bing.com
+#steam下载服务器：
+DOMAIN-SUFFIX,steamcontent.com
+#cache1-gru1.steamcontent.com:443
+#cache2-gru1.steamcontent.com:443
+#cache3-gru1.steamcontent.com:443
+#cache4-gru1.steamcontent.com:443
+#cache5-gru1.steamcontent.com:443
+#cache6-gru1.steamcontent.com:443
+#cache7-gru1.steamcontent.com:443
+#cache8-gru1.steamcontent.com:443
+
+
+
