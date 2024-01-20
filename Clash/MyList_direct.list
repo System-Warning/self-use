@@ -17,6 +17,7 @@
 
 
 #DOMAIN-SUFFIX,bing.com
+################################################################
 #steam下载服务器：
 DOMAIN-SUFFIX,steamcontent.com
 #cache1-gru1.steamcontent.com:443
@@ -27,6 +28,7 @@ DOMAIN-SUFFIX,steamcontent.com
 #cache6-gru1.steamcontent.com:443
 #cache7-gru1.steamcontent.com:443
 #cache8-gru1.steamcontent.com:443
+################################################################
 
 
 
