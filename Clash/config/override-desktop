@@ -106,8 +106,8 @@ proxy-groups:
     icon: https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Final.png
     type: select
     proxies:
-      - DIRECT
       - 选择代理
+      - DIRECT
   - name: 低倍率节点
     icon: https://cdn.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Lab.png
     type: select
